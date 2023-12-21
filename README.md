@@ -3,7 +3,7 @@
 ## Hi guys 👋
 ✨ I'm a Frontend Developer, super passionate about programming and always looking to learn.
 
-- 🚀 I’m currently working on my Next.js personnal web page
+- 🚀 I’m currently working as a freelance.
 - 👯 I can Help on Front-end projects with Javascript, HTML, CSS, React, Redux, TypeScript, TailwindCSS, CSS modules, SASS, 
 - 💜 I love learn new techs 😊
 - 💻 My favorite stack: ReactJS, Next.js, Node.js, Typescript, VScode, Git
