@@ -1,7 +1,7 @@
 ### Sebastien GAULT 
 
 ## Hi guys 👋
-✨ I'm a Frontend Developer, super passionate about programming and always looking to learn.
+✨ I'm a Full Stack Developer, super passionate about programming and always looking to learn.
 
 - 🚀 I’m currently working as a freelance.
 - 👯 I can Help on Front-end projects with Javascript, HTML, CSS, React, Redux, TypeScript, TailwindCSS, CSS modules, SASS, 
